@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Moon, Sun, ArrowRight, Search, Tag as TagIcon, Flame } from "lucide-react";
+import { Moon, Sun, Search, Tag as TagIcon, Flame } from "lucide-react";
 import clsx from "clsx";
 
 type Post = {
